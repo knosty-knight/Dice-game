@@ -1,2 +1,2 @@
-# Spotify-based-music-player
-Music playing web app
+# Dice-game
+Dice game simulator
